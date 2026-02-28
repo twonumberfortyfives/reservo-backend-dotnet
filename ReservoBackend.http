@@ -1,0 +1,6 @@
+@ReservoBackend_HostAddress = http://localhost:5027
+
+GET {{ReservoBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
